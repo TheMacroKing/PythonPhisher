@@ -2,5 +2,5 @@
 
 This repository contains a Python script for Phisher.
 
-> [!IMPORTANT]
+> [!WARNING]
 > This script is for educational purposes only.
